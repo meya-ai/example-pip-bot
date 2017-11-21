@@ -1,2 +1,5 @@
-# pip-install-verify
-Verify pip installs.
+# test-pip
+
+This stays!
+
+...and comes back!

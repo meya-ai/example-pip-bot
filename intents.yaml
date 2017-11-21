@@ -1,0 +1,5 @@
+-   flow: hello_world
+    intent: meya.keyword
+    settings:
+        ignorecase: true
+        keyword: hi

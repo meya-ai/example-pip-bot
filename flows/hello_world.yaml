@@ -1,0 +1,6 @@
+name: hello_world
+states:
+    first:
+        component: meya.text
+        properties:
+            text: Hello, World!
