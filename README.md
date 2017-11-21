@@ -1,5 +1,1 @@
-# test-pip
-
-This stays!
-
-...and comes back!
+# pip-install-verify
